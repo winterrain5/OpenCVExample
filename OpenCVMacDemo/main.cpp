@@ -6,7 +6,6 @@
 //
 #include "Chapter2.hpp"
 #include "Chapter3.hpp"
-#include "Chapter3_3.hpp"
 #include <iostream>
 
 #include <opencv2/opencv.hpp>
@@ -17,8 +16,8 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    Chapter3_3 demo;
-    demo.imageWarpPolar();
+    Chapter3 demo;
+    demo.imagePyramid();
 
     return 0;
 }

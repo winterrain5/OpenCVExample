@@ -17,7 +17,16 @@ public:
     void findMinAndMax();
     void twoImageCompare();
     void logicOpreration();
+    // 二值化
     void imageBinarization();
+    // 图片合并
+    void imageConcat();
+    // 仿射变换
+    void imageWrapAffine();
+    // 极坐标变换
+    void imageWarpPolar();
+    // 高斯金字塔和拉普拉斯金字塔
+    void imagePyramid();
 };
 
 #endif /* Chapter3_hpp */
