@@ -13,6 +13,8 @@
 class Chapter3_3 {
 public:
     void imageConcat();
+    void imageWrapAffine();
+    void imageWarpPolar();
 };
 
 #endif /* Chapter3_3_hpp */

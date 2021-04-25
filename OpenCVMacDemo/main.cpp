@@ -18,7 +18,7 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     
     Chapter3_3 demo;
-    demo.imageConcat();
+    demo.imageWarpPolar();
 
     return 0;
 }
