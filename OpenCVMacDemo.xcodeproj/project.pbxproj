@@ -26,6 +26,7 @@
 		3986FBEE2631548000AFC9CD /* info.plist in CopyFiles */ = {isa = PBXBuildFile; fileRef = 3986FBEA26314FA500AFC9CD /* info.plist */; };
 		3986FBF226315C6A00AFC9CD /* Chapter2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3986FBF026315C6A00AFC9CD /* Chapter2.cpp */; };
 		3986FBF726316F4100AFC9CD /* Chapter3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3986FBF526316F4100AFC9CD /* Chapter3.cpp */; };
+		3986FD6726355C8700AFC9CD /* Chapter4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3986FD6526355C8700AFC9CD /* Chapter4.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -74,6 +75,8 @@
 		3986FBF126315C6A00AFC9CD /* Chapter2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Chapter2.hpp; sourceTree = "<group>"; };
 		3986FBF526316F4100AFC9CD /* Chapter3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chapter3.cpp; sourceTree = "<group>"; };
 		3986FBF626316F4100AFC9CD /* Chapter3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Chapter3.hpp; sourceTree = "<group>"; };
+		3986FD6526355C8700AFC9CD /* Chapter4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chapter4.cpp; sourceTree = "<group>"; };
+		3986FD6626355C8700AFC9CD /* Chapter4.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Chapter4.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +132,8 @@
 				3986FBF126315C6A00AFC9CD /* Chapter2.hpp */,
 				3986FBF526316F4100AFC9CD /* Chapter3.cpp */,
 				3986FBF626316F4100AFC9CD /* Chapter3.hpp */,
+				3986FD6526355C8700AFC9CD /* Chapter4.cpp */,
+				3986FD6626355C8700AFC9CD /* Chapter4.hpp */,
 			);
 			path = OpenCVMacDemo;
 			sourceTree = "<group>";
@@ -212,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3986FD6726355C8700AFC9CD /* Chapter4.cpp in Sources */,
 				3986FBF726316F4100AFC9CD /* Chapter3.cpp in Sources */,
 				3986FBF226315C6A00AFC9CD /* Chapter2.cpp in Sources */,
 				3986FBB02631201300AFC9CD /* main.cpp in Sources */,

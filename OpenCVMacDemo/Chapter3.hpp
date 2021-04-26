@@ -21,6 +21,8 @@ public:
     void imageBinarization();
     // 图片合并
     void imageConcat();
+    // 灰度值映射
+    void imageLUT();
     // 仿射变换
     void imageWrapAffine();
     // 极坐标变换
